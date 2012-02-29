@@ -135,6 +135,15 @@ public class JaxyClient {
     }
 
     /**
+     * Add 'User-Agent' into request header
+     * 
+     * @param userAgent
+     */
+    public void setUserAgent(String userAgent) {
+        addRequestHeader("User-Agent", userAgent);
+    }
+
+    /**
      * Add header value to http(s) request header<br>
      * 
      * @param headerName
