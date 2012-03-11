@@ -124,4 +124,10 @@ public class AppMain_Json {
 	}// main()
 }
 ```
+
+##Downloads
+You can download latest jaxy jar from here.
+
+[jaxy-0.8.0.jar](http://riversun.org/downloads/jaxy-0.8.0.zip)
+
 project moved from bitbucket:)
