@@ -33,7 +33,7 @@ import java.util.Set;
  * 
  * JSON Node
  * 
- * Tom Misawa <riversun.org@gmail.com>
+ * @author Tom Misawa (riversun.org@gmail.com)
  */
 public class JsonNode extends JaxyNode {
 

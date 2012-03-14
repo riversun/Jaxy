@@ -31,7 +31,7 @@ import java.util.Map;
 /**
  * Class for Source Code
  * 
- * Tom Misawa <riversun.org@gmail.com>
+ * @author Tom Misawa (riversun.org@gmail.com)
  *
  */
 class JaxySrcGenSourceCode {

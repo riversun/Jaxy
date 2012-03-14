@@ -26,7 +26,7 @@ package org.riversun.jaxy;
 /**
  * Constants for Jaxy<br>
  * 
- * Tom Misawa <riversun.org@gmail.com>
+ * @author Tom Misawa (riversun.org@gmail.com)
  *
  */
 class JaxyDef {

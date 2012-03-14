@@ -29,7 +29,7 @@ import org.riversun.jaxy.JaxyClientTriggerCodeGen.TriggerType;
 /**
  * Parser source code generator for JsonNode<b>
  * 
- * Tom Misawa <riversun.org@gmail.com>
+ * @author Tom Misawa (riversun.org@gmail.com)
  *
  */
 class JaxySrcGen4JsonNode extends JaxySrcGenBase<JsonNode> {

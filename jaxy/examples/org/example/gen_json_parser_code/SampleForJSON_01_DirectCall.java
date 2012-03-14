@@ -19,7 +19,7 @@ import org.riversun.jaxy.JsonNode;
  * -- directly call the URL by GET method<br>
  * 
  * 
- * Tom Misawa <riversun.org@gmail.com>
+ * @author Tom Misawa (riversun.org@gmail.com)
  *
  */
 public class SampleForJSON_01_DirectCall {

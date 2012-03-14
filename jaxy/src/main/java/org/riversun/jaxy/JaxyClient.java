@@ -71,7 +71,7 @@ import org.w3c.dom.Document;
  * - XML to XmlNode<br>
  * <br>
  * 
- * Tom Misawa <riversun.org@gmail.com>
+ * @author Tom Misawa (riversun.org@gmail.com)
  *
  *
  */
@@ -250,9 +250,8 @@ public class JaxyClient {
 	/**
 	 * Transform Xml formatted data into XmlNode
 	 * 
-	 * @param url
+	 * @param xmlFormattedText
 	 * @return
-	 * @throws JaxyClientNetworkException
 	 */
 	public XmlNode getXml(String xmlFormattedText) {
 
@@ -1117,7 +1116,7 @@ public class JaxyClient {
 	/**
 	 * Basic auth handler
 	 * 
-	 * Tom Misawa <riversun.org@gmail.com>
+	 * @author Tom Misawa (riversun.org@gmail.com)
 	 *
 	 */
 	static final class BasicAuthAuthenticator extends Authenticator {
@@ -1164,7 +1163,7 @@ public class JaxyClient {
 	/**
 	 * URL wrapper
 	 * 
-	 * Tom Misawa <riversun.org@gmail.com>
+	 * @author Tom Misawa (riversun.org@gmail.com)
 	 *
 	 */
 	static final class JaxyClientURLWrapper {

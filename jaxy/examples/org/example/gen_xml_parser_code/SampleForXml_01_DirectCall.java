@@ -19,7 +19,7 @@ import org.riversun.jaxy.XmlNode;
  * -- directly call the URL by GET method<br>
  * 
  * 
- * Tom Misawa <riversun.org@gmail.com>
+ * @author Tom Misawa (riversun.org@gmail.com)
  *
  */
 public class SampleForXml_01_DirectCall {

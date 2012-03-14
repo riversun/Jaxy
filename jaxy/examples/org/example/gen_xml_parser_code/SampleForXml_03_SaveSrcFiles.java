@@ -21,7 +21,7 @@ import org.riversun.jaxy.XmlNode;
  * -- save source code to the files<br>
  * 
  * 
- * Tom Misawa <riversun.org@gmail.com>
+ * @author Tom Misawa (riversun.org@gmail.com)
  *
  */
 public class SampleForXml_03_SaveSrcFiles {

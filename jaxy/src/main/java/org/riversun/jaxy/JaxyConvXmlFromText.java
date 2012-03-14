@@ -40,7 +40,7 @@ import org.xml.sax.InputSource;
 /**
  * Transform from Text into XmlNode<br>
  * 
- * Tom Misawa <riversun.org@gmail.com>
+ * @author Tom Misawa (riversun.org@gmail.com)
  *
  */
 class JaxyConvXmlFromText {

@@ -36,7 +36,7 @@ import org.riversun.jaxy.JaxyClient.SourceGenTrigger;
  * Base class of JaxySrcGen<br>
  * Aggregate common functions simply
  * 
- * Tom Misawa <riversun.org@gmail.com>
+ * @author Tom Misawa (riversun.org@gmail.com)
  *
  * @param <T>
  */

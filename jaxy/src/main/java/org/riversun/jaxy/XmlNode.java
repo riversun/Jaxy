@@ -33,7 +33,7 @@ import java.util.Set;
 /**
  * XmlNode<br>
  * 
- * Tom Misawa <riversun.org@gmail.com>
+ * @author Tom Misawa (riversun.org@gmail.com)
  *
  */
 public class XmlNode extends JaxyNode {

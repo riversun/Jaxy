@@ -26,7 +26,7 @@ package org.riversun.jaxy;
 /**
  * General exception while retrieving the data from network<br>
  * 
- * Tom Misawa <riversun.org@gmail.com>
+ * @author Tom Misawa (riversun.org@gmail.com)
  *
  */
 public class JaxyClientNetworkException extends Exception {

@@ -19,7 +19,7 @@ import org.riversun.jaxy.XmlNode;
  * --you can add a request parameter by calling 'addParameter' method<br>
  * 
  * 
- * Tom Misawa <riversun.org@gmail.com>
+ * @author Tom Misawa (riversun.org@gmail.com)
  *
  */
 public class SampleForXml_02_AddReqParam {

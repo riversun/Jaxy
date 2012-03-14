@@ -59,7 +59,7 @@ import org.json.JSONObject;
  * parentNode.child("TopLevelElement").child("SecondLevel").child("ThirdLevel").
  * toString(); <br>
  * 
- * Tom Misawa <riversun.org@gmail.com>
+ * @author Tom Misawa (riversun.org@gmail.com)
  *
  */
 class JaxyJsonNodeParser {

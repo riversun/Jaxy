@@ -29,7 +29,7 @@ import org.json.JSONObject;
 /**
  * Transform from Text into JSON<br>
  * 
- * Tom Misawa <riversun.org@gmail.com>
+ * @author Tom Misawa (riversun.org@gmail.com)
  *
  */
 class JaxyConvJsonFromText {

@@ -26,7 +26,7 @@ package org.riversun.jaxy;
 /**
  * Base class provides common variables
  * 
- * Tom Misawa <riversun.org@gmail.com>
+ * @author Tom Misawa (riversun.org@gmail.com)
  *
  */
 class JaxyNode {
