@@ -125,9 +125,22 @@ public class AppMain_Json {
 }
 ```
 
-##Downloads
-You can download latest jaxy jar from here.
 
-[jaxy-0.8.0.jar](http://riversun.org/downloads/jaxy-0.8.0.zip)
+#Downloads
+## maven
+- You can add dependencies to maven pom.xml file.
+```xml
+<dependency>
+  <groupId>org.riversun</groupId>
+  <artifactId>jaxy</artifactId>
+  <version>0.8.0</version>
+</dependency>
+```
+
+## direct download
+- You can download jar from here and add it into your classpath.
+
+  [jaxy-0.8.0.zip](http://riversun.org/downloads/jaxy-0.8.0.zip)
+
 
 project moved from bitbucket:)
