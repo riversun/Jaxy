@@ -125,6 +125,11 @@ public class AppMain_Json {
 }
 ```
 
+# More Details
+See javadoc as follows.
+
+https://riversun.github.io/javadoc/jaxy/
+
 
 #Downloads
 ## maven
