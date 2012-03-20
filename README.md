@@ -135,12 +135,14 @@ public class AppMain_Json {
   <artifactId>jaxy</artifactId>
   <version>0.8.0</version>
 </dependency>
+
+<dependency>
+<groupId>org.json</groupId>
+  <artifactId>json</artifactId>
+  <version>20090211</version>
+  <scope>provided</scope>
+</dependency>
 ```
-
-## direct download
-- You can download jar from here and add it into your classpath.
-
-  [jaxy-0.8.0.zip](http://riversun.org/downloads/jaxy-0.8.0.zip)
 
 
 project moved from bitbucket:)
