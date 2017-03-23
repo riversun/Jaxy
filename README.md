@@ -5,6 +5,8 @@ You can generate a parser for JSON or XML with incredible speed.
 
 It is licensed under [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.riversun/jaxy/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.riversun/jaxy)
+
 -----
 # How to Use
 ## Generate JSON or XML Parser source code
